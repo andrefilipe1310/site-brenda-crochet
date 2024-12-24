@@ -176,14 +176,15 @@ body {
 /* Delivery Section atualizada */
 .delivery-section {
     background-color: white;
-    padding: 80px 0;
+    padding: 5em 0;
     position: relative;
+    
 }
 
 .delivery-content {
     background: var(--primary-color);
     border-radius: 20px;
-    padding: 30px;
+    padding: 5em;
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
     color: white;
 }
@@ -277,7 +278,7 @@ footer::before {
 }
 
 .person-image {
-    max-width:30em;
+    max-width:20em;
 }
 
 .logo-img{
@@ -419,3 +420,4 @@ footer::before {
     .lazy-load.loaded {
         opacity: 1;
     }
+
